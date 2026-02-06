@@ -1,4 +1,4 @@
-const db = require('../../data');
+const db = require('../data/data');
 
 exports.getstudents = (req, res) => {
     const sql = 'SELECT * FROM demo_kec';
