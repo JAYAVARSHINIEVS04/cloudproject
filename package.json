@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JAYAVARSHINIEVS04/cloudproject.git"
+    "url": "git+https://github.com/JAYAVARSHINIEVS04/sqldatabase.git"
   },
   "bugs": {
-    "url": "https://github.com/JAYAVARSHINIEVS04/cloudproject/issues"
+    "url": "https://github.com/JAYAVARSHINIEVS04/sqldatabase.git"
   },
-  "homepage": "https://github.com/JAYAVARSHINIEVS04/cloudproject#readme"
+  "homepage": "https://github.com/JAYAVARSHINIEVS04/sqldatabase#readme"
 }
